@@ -1,0 +1,51 @@
+State,id,Total
+Alabama,1,15
+Alaska,2,0
+Arizona,3,85
+Arkansas,4,6
+California,5,842
+Colorado,6,79
+Connecticut,7,24
+Delaware,8,9
+Florida,9,177
+Georgia,10,61
+Hawaii,11,0
+Idaho,12,4
+Illinois,13,144
+Indiana,14,40
+Iowa,15,10
+Kansas,16,30
+Kentucky,17,21
+Louisiana,18,10
+Maine,19,5
+Maryland,20,94
+Massachusetts,21,62
+Michigan,22,39
+Minnesota,23,71
+Mississippi,24,2
+Missouri,25,39
+Montana,26,3
+Nebraska,27,10
+Nevada,28,29
+New Hampshire,29,8
+New Jersey,30,69
+New Mexico,31,9
+New York,32,160
+North Carolina,33,65
+North Dakota,34,2
+Ohio,35,193
+Oklahoma,36,12
+Oregon,37,32
+Pennsylvania,38,96
+Rhode Island,39,9
+South Carolina,40,21
+South Dakota,41,0
+Tennessee,42,26
+Texas,43,226
+Utah,44,11
+Vermont,45,2
+Virginia,46,107
+Washington,47,64
+West Virginia,48,6
+Wisconsin,49,20
+Wyoming,50,1
